@@ -1,0 +1,11 @@
+flask
+requests
+flask-sqlalchemy
+flask-login
+python-dotenv
+authlib
+requests-oauthlib
+flask-mail
+apscheduler
+beautifulsoup4
+flask-apscheduler 
